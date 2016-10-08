@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Imagenes">
+        <file>Imagenes/cicrcle_blue.png</file>
+        <file>Imagenes/circle_red.png</file>
+        <file>Imagenes/circle_yellow.png</file>
+        <file>Imagenes/fondo-del-espacio.jpg</file>
+        <file>Imagenes/fondo-pokemon.jpg</file>
+        <file>Imagenes/índice.jpg</file>
+        <file>Imagenes/redo_256.png</file>
+        <file>Imagenes/circlegreyproof.png</file>
+        <file>Imagenes/arrow-downGray.png</file>
+        <file>Imagenes/simplistic_play_icon__ico__png__by_micahpkay-d6opha8.png</file>
+    </qresource>
+</RCC>
